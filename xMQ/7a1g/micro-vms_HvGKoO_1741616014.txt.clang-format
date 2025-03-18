@@ -112,7 +112,6 @@ NamespaceIndentation: All
 # PenaltyBreakTemplateDeclaration
 # PenaltyExcessCharacter
 # PenaltyReturnTypeOnItsOwnLine
-PointerAlignment: Right
 # RawStringFormats
 ReflowComments: false
 SortIncludes: true

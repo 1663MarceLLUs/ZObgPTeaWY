@@ -23,6 +23,5 @@ extend-ignore-re = [
 "caf" = "caf"
 "iy" = "iy"
 "reloadSavedIINAfilters" = "reloadSavedIINAfilters"
-"ScreenshootOSDView" = "ScreenshootOSDView"
 "tak" = "tak"
 "videoParamsMaxCll" = "videoParamsMaxCll"

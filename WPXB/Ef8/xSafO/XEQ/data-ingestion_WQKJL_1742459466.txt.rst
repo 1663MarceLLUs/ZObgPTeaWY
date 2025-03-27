@@ -8,7 +8,6 @@ Current Maintainers:
 Former Maintainers:
 
 * `Jamie Brim <https://www.github.com/strcrzy>`_
-* `Austin Byers <https://github.com/austinbyers>`_
 * `Mime Frame <https://www.github.com/mime-frame>`_
 * `Jack Naglieri <https://www.github.com/jacknagz>`_
 

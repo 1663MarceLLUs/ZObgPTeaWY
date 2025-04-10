@@ -2,7 +2,6 @@ Current Maintainers:
 
 * `Ryan Deivert <https://github.com/ryandeivert>`_
 * `Chunyong Lin <https://github.com/chunyong-lin>`_
-* `Blake Motl <https://github.com/blakemotl>`_
 * `Derek Wang <https://github.com/Ryxias>`_
 
 Former Maintainers:

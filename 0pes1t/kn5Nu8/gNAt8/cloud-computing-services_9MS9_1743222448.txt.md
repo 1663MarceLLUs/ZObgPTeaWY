@@ -176,7 +176,6 @@
 * [Enhancement] Consolidated the files produced during the binary build to accommodate modules using vendored non-standard libraries
 * [Enhancement] Reformatted output from the list subcommand to include a remediation support column
 * [Bugfix] Corrected string matching for pruning modules
-
 #### Modules
 * [New Feature] Added remediation module template
 * [New Module] Added openssh module with remediation support (complete rework of previous SSH module)

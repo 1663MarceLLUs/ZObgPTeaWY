@@ -187,7 +187,6 @@
 * [Enhancement] Added Nitro/KVM support to ixgbevf, xenfeatures, xennetrocket modules
 * [Enhancement] Refactored tcprecycle module and added remediation support
 * [Enhancement] Refactored arpignore module and added remediation support
-* [Enhancement] Refactoredarpcache module and added remediation support
 * [Bugfix] Corrected description of bccvfsstat module
 * [Bugfix] Corrected typos in bcctcpretrans module
 * [Bugfix] Added --preserve-status to all BASH-based modules utilizing "timeout"

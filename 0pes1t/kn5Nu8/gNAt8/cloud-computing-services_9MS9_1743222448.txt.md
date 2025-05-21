@@ -157,7 +157,6 @@
 * None
 
 #### Testing
-* [Bugfix] Renamed test with duplicate name
 
 # EC2 Rescue for Linux v1.1.0
 

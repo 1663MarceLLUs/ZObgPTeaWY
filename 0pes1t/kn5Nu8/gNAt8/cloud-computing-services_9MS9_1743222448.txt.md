@@ -118,7 +118,6 @@
 #### Testing
 * None
 
-# EC2 Rescue for Linux v1.1.2
 
 #### General
 * [Bugfix] Updated included SSM documents to accommodate ec2rl directory name with version number

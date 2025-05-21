@@ -102,7 +102,6 @@
 * [Enhancement] Binary build: include the requests certificate bundle to ensure SSL works.
 * [Enhancement] The prep Makefile target now removes the bin directory.
 * [Enhancement] Updated distribution detection for the Amazon Linux 2 LTS release.
-* [Enhancement] Make the vendored Python modules available to EC2RL modules via PYTHONPATH.
 * [Enhancement] Updated the ec2rl script to use a local copy of Python, if present. The local path for the local copy must be python/bin/python. This change is primarily intended to support the bundled build.
 
 #### Modules

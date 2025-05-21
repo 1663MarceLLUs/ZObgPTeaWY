@@ -19,7 +19,6 @@
         "proprietary"
     ],
     "homepage": "https://www.magepal.com/google-tag-manager.html",
-    "support": {
         "email": "support@magepal.com",
         "issues": "https://github.com/magepal/magento2-google-tag-manager/issues/"
     },

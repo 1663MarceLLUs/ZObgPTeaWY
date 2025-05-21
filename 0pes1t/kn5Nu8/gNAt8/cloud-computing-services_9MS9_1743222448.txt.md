@@ -196,7 +196,6 @@
 * [New Test] Added unit and function tests for openssh module
 * [New Test] Added unit tests for udevnetpersistent module
 * [New Test] Added unit tests for selinuxpermissive module
-* [New Test] Added unit tests for rebuildinitrd module
 * [New Test] Added unit tests for fstabfailures module
 * [New Test] Added unit tests for tcprecycle module
 * [New Test] Added unit tests for arpignore module

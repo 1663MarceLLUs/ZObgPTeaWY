@@ -167,7 +167,6 @@
 * [New Feature] Added remediation module support
 * [Enhancement] Added support for ALAMI v2
 * [Enhancement] Limited permission on the RUNDIR to only the creator
-* [Enhancement] Set upper bound of 100 to concurrency value
 * [Enhancement] Refactored prediag.get_distro() for readability
 * [Enhancement] Added subprocess universal_newlines arg to module run to simplify handling of output
 * [Enhancement] Consolidated the files produced during the binary build to accommodate modules using vendored non-standard libraries

@@ -9,7 +9,6 @@
 
 #### Modules
 * [New Module] Add nvidiabugreport collect module
-
 # EC2 Rescue for Linux v1.1.6
 
 #### General

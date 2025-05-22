@@ -29,7 +29,6 @@
         "magepal/magento2-google-analytics4": "Prepare for the future with Google Analytics 4. Learn more at https://www.magepal.com/google-analytics-4-for-google-tag-manager.html"
     },
     "version": "3.0.0",
-    "autoload": {
         "psr-4": {
             "MagePal\\GoogleTagManager\\": ""
         }

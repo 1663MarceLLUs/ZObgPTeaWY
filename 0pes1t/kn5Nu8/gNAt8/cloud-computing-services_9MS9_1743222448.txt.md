@@ -1,6 +1,5 @@
 <<<<<<< HEAD
 =======
-# EC2 Rescue for Linux v1.1.7
 
 #### General
 * [Enhancement] Alter method to determine if the Operating Systems is Amazon Linux 2023 to catch all versions.

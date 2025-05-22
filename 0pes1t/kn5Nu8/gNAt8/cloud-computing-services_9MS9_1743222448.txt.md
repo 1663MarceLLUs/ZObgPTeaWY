@@ -183,7 +183,6 @@
 * [Enhancement] Refactored arpignore module and added remediation support
 * [Bugfix] Corrected description of bccvfsstat module
 * [Bugfix] Corrected typos in bcctcpretrans module
-* [Bugfix] Added --preserve-status to all BASH-based modules utilizing "timeout"
 
 #### Testing
 * [New Test] Added unit and function tests for openssh module

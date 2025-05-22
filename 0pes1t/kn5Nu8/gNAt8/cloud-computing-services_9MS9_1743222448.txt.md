@@ -42,7 +42,6 @@
 * [Bugfix] Fix EC2RL_VIRT_TYPE not taking into account change in metadata profile display of Nitro instances
 * [Enhancement] Modified get_instance_region() and get_instance_id() to support IMDSv2.
 * [Enhancement] Modified verify_metadata(), get_virt_type() and is_an_instance() to support IMDSv2
-
 #### Modules
 * [New Module] Add lvmarchives module.
 * [Bugfix] Update xennetrocket, xenfeatures, ixgbevfversion to reflect proper EC2RL_VIRT_TYPE detection.

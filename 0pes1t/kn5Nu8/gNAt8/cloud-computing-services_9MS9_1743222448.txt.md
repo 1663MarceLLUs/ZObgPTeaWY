@@ -149,7 +149,6 @@
 
 #### Framework
 * [Bugfix] Fixed regression where permission mode on WORKDIR was not being set to 0o777
-
 #### Modules
 * None
 
